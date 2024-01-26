@@ -41,7 +41,6 @@ struct ContentView: View {
                 .foregroundColor(.white)
                 .cornerRadius(12)
                 .frame(width: 120, height: 80)
-                
             }
             
             Text(" 못하면 연습 해야지? ")
